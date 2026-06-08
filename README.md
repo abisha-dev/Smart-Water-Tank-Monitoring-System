@@ -1,33 +1,33 @@
 # 💧 Smart Water Tank Monitoring System
 
-## 📌 Project Overview
-This project monitors water levels in a tank using an ultrasonic sensor (HC-SR04).
+<p align="center">
+  <img src="images/water-tank.png" width="600">
+</p>
 
-It provides real-time updates on an LCD display and triggers a buzzer alert when the water level goes below a predefined threshold.
+---
+
+## 📌 Project Overview
+This project monitors the water level in a tank using an ultrasonic sensor (HC-SR04).
+
+It provides real-time updates on an LCD display and triggers a buzzer alert when the water level falls below a predefined threshold.
 
 ---
 
 ## 🛠️ Components Used
-- Arduino Uno
-- Ultrasonic Sensor (HC-SR04)
-- 16x2 LCD Display
-- Buzzer
-- Breadboard
-- Jumper Wires
+- Arduino Uno  
+- Ultrasonic Sensor (HC-SR04)  
+- 16x2 LCD Display  
+- Buzzer  
+- Breadboard  
+- Jumper Wires  
 
 ---
 
 ## 🚀 Key Features
-- 📡 Ultrasonic sensing for accurate water level detection  
-- 🔔 Buzzer alert when water level is low  
-- 📟 Real-time LCD display  
-- 📊 Percentage-based water level monitoring  
-
----
-
-## 📷 Project Image
-![Water Tank Project](<img width="934" height="635" alt="image" src="https://github.com/user-attachments/assets/430a1cb5-93cb-48b0-88ca-850761ba78ae" />)
-
+✔ Real-time water level monitoring  
+✔ Accurate ultrasonic sensing  
+✔ LCD display output  
+✔ Buzzer alert for low water level  
 
 ---
 
@@ -39,4 +39,15 @@ It provides real-time updates on an LCD display and triggers a buzzer alert when
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 💡 Future Enhancements
+- IoT monitoring using WiFi  
+- Mobile app integration  
+- Cloud data storage  
+
+---
+
+## 👩‍💻 Author
+**Abisha R**
